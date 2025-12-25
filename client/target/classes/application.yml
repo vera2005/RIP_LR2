@@ -1,0 +1,20 @@
+server:
+  port: 8082
+
+spring:
+  application:
+    name: translation-client
+
+logging:
+  level:
+    com.example.foreverrip: DEBUG
+    org.springframework.web: DEBUG
+    reactor.netty.http.client: DEBUG
+  pattern:
+    console: "%d{yyyy-MM-dd HH:mm:ss} - %msg%n"
+
+management:
+  endpoints:
+    web:
+      exposure:
+        include: health,info,metrics

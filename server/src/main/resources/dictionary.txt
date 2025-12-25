@@ -1,0 +1,15 @@
+привет=hello
+мир=world
+дом=house
+кот=cat
+собака=dog
+книга=book
+солнце=sun
+луна=moon
+вода=water
+огонь=fire
+дерево=tree
+цветок=flower
+небо=sky
+земля=earth
+воздух=air

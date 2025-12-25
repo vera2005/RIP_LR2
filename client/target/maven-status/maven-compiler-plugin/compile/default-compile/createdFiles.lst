@@ -1,0 +1,4 @@
+com\example\foreverrip\ClientApplication.class
+com\example\foreverrip\config\WebClientConfig.class
+com\example\foreverrip\service\TranslationClientService.class
+com\example\foreverrip\controller\ClientController.class
